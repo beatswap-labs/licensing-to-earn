@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Hardhat
+opbnb/cache/
+opbnb/artifacts/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
