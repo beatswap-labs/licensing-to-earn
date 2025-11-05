@@ -1,0 +1,22 @@
+{
+  "name": "licensing-to-earn",
+  "version": "1.0.0",
+  "description": "IP Licensing and reward distribution DApp on opBNB",
+  "license": "MIT",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "clean": "npx hardhat clean",
+    "deploy:opbnb": "npx hardhat run opbnb/scripts/deploy.js --network opbnb",
+    "lint:sol": "npx solhint 'opbnb/contracts/**/*.sol'",
+    "lint:js": "npx prettier --check .",
+    "format": "npx prettier --write ."
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.10",
+    "prettier": "^3.3.3",
+    "solhint": "^4.5.4",
+    "solhint-plugin-prettier": "^0.1.0"
+  }
+}
