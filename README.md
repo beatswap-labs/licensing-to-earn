@@ -69,7 +69,7 @@ licensing-to-earn/
 OP_BNB_RPC_URL=https://opbnb-mainnet-rpc.bnbchain.org
 
 # Contract Addresses
-IP_LICENSING_INDEX_CONTRACT_ADDRESS=0x9Fd37c7C6172a9dd83f65cc7E8225c8e19F36Fc4
+IP_LICENSING_INDEX_CONTRACT_ADDRESS=0x764C8D1fB1ff538F4FbE33Be2827f280Bbc212e1
 ```
 
 ---
@@ -98,7 +98,7 @@ Licensed under the **MIT License**.
 
 **Repository Name:** `licensing-to-earn`  
 **Primary Network:** opBNB Mainnet (Chain ID: 204)  
-**Verified Contract:** `0x9Fd37c7C6172a9dd83f65cc7E8225c8e19F36Fc4`  
+**Verified Contract:** `0x764C8D1fB1ff538F4FbE33Be2827f280Bbc212e1`  
 **Token Name:** IP Licensing Index  
 **Token Symbol:** IPL  
 
