@@ -25,7 +25,7 @@ It tokenizes intellectual property rights, automates licensing rewards, and opti
 
 | Network       | Contract Name    | Address                                                                 |
 |----------------|------------------|--------------------------------------------------------------------------|
-| opBNB Mainnet  | IPLicensingIndex | [0x9Fd37c7C6172a9dd83f65cc7E8225c8e19F36Fc4](https://opbnbscan.com/address/0x9Fd37c7C6172a9dd83f65cc7E8225c8e19F36Fc4) |
+| opBNB Mainnet  | IPLicensingIndex | [0x764C8D1fB1ff538F4FbE33Be2827f280Bbc212e1](https://opbnbscan.com/address/0x764C8D1fB1ff538F4FbE33Be2827f280Bbc212e1) |
 
 **Token Name:** IP Licensing Index  
 **Token Symbol:** IPL  
