@@ -25,7 +25,7 @@ It tokenizes intellectual property rights, automates licensing rewards, and opti
 
 | Network       | Contract Name    | Address                                                                 |
 |----------------|------------------|--------------------------------------------------------------------------|
-| opBNB Mainnet  | IPLicensingIndex | [0x93E1486AB140Cc0715f6B66509D270342F34fcC3](https://opbnbscan.com/address/0x93E1486AB140Cc0715f6B66509D270342F34fcC3) |
+| opBNB Mainnet  | IPLicensingIndex | [0xdEB3FC49eb63765CDAbCD0917ae4D90b75847001](https://opbnbscan.com/address/0xdEB3FC49eb63765CDAbCD0917ae4D90b75847001) |
 
 **Token Name:** IP Licensing Index  
 **Token Symbol:** IPL  
@@ -69,7 +69,7 @@ licensing-to-earn/
 OP_BNB_RPC_URL=https://opbnb-mainnet-rpc.bnbchain.org
 
 # Contract Addresses
-IP_LICENSING_INDEX_CONTRACT_ADDRESS=0x93E1486AB140Cc0715f6B66509D270342F34fcC3
+IP_LICENSING_INDEX_CONTRACT_ADDRESS=0xdEB3FC49eb63765CDAbCD0917ae4D90b75847001
 ```
 
 ---
@@ -98,7 +98,7 @@ Licensed under the **MIT License**.
 
 **Repository Name:** `licensing-to-earn`  
 **Primary Network:** opBNB Mainnet (Chain ID: 204)  
-**Verified Contract:** `0x93E1486AB140Cc0715f6B66509D270342F34fcC3`  
+**Verified Contract:** `0xdEB3FC49eb63765CDAbCD0917ae4D90b75847001`  
 **Token Name:** IP Licensing Index  
 **Token Symbol:** IPL  
 
